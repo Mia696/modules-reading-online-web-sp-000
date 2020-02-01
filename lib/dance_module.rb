@@ -8,7 +8,7 @@ module Dance
   end
   
   def pirouette
-    "I'm doing piourette"
+    "I'm doing pirouette"
   end
   
   def take_a_bow
