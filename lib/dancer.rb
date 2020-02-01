@@ -8,7 +8,7 @@ class Dancer
   include FancyDance::InstanceMethods
    attr_accessor :name 
   
-  def initilaize(name)
+  def initilize(name)
     @name = name
   end 
 end
