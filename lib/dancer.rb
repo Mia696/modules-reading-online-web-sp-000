@@ -10,7 +10,7 @@ class Dancer
    attr_accessor :name 
   
   def initilaize(name)
-    @name = name
+    @name = namem
   end 
 end
 
